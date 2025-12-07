@@ -31,7 +31,7 @@ This project demonstrates:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/blog-api.git
+git clone git clone https://github.com/Swetha-svvv/blog-api.git
 cd blog-api
 ```
 
